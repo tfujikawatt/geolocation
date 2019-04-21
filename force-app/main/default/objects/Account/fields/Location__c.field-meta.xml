@@ -3,7 +3,7 @@
     <fullName>Location__c</fullName>
     <displayLocationInDecimal>true</displayLocationInDecimal>
     <externalId>false</externalId>
-    <label>場所</label>
+    <label>Location</label>
     <required>false</required>
     <scale>7</scale>
     <trackFeedHistory>false</trackFeedHistory>

@@ -2,14 +2,14 @@
     [
         "Y:\\MicroSD\\heroku\\geolocation\\force-app",
         {
-            "state": "n",
             "sourcePath": "Y:\\MicroSD\\heroku\\geolocation\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1555858497359,
             "changeTime": 1555858497359,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "Y:\\MicroSD\\heroku\\geolocation\\force-app\\main",
         {
-            "state": "n",
             "sourcePath": "Y:\\MicroSD\\heroku\\geolocation\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1555858497363,
             "changeTime": 1555858497363,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,27 +32,27 @@
     [
         "Y:\\MicroSD\\heroku\\geolocation\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "Y:\\MicroSD\\heroku\\geolocation\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1555859748694,
             "changeTime": 1555859748694,
-            "contentHash": "4e221285910e10ba09a94e0285f71f1fcf7be9c8"
+            "contentHash": "4e221285910e10ba09a94e0285f71f1fcf7be9c8",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "Y:\\MicroSD\\heroku\\geolocation\\force-app\\main\\default\\aura",
         {
-            "state": "n",
             "sourcePath": "Y:\\MicroSD\\heroku\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1555858497368,
             "changeTime": 1555858497368,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -60,14 +60,14 @@
     [
         "Y:\\MicroSD\\heroku\\geolocation\\force-app\\main\\default\\lwc",
         {
-            "state": "n",
             "sourcePath": "Y:\\MicroSD\\heroku\\geolocation\\force-app\\main\\default\\lwc",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1555858497375,
             "changeTime": 1555858497375,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -75,14 +75,14 @@
     [
         "Y:\\MicroSD\\heroku\\geolocation",
         {
-            "state": "n",
             "sourcePath": "Y:\\MicroSD\\heroku\\geolocation",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1555858704775,
             "changeTime": 1555858704775,
             "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
@@ -94,140 +94,140 @@
             "sourcePath": "Y:\\MicroSD\\heroku\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 401,
-            "modifiedTime": 1555859748536,
-            "changeTime": 1555859748536,
-            "contentHash": "1c5d42ffe3809f6951a52de46f8b5a28fbaae781"
+            "size": 403,
+            "modifiedTime": 1555861385506,
+            "changeTime": 1555861385506,
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596"
         }
     ],
     [
         "Y:\\MicroSD\\heroku\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "Y:\\MicroSD\\heroku\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9630,
             "modifiedTime": 1555859748563,
             "changeTime": 1555859748563,
-            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22"
+            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "Y:\\MicroSD\\heroku\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "Y:\\MicroSD\\heroku\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9582,
             "modifiedTime": 1555859748624,
             "changeTime": 1555859748624,
-            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278"
+            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "Y:\\MicroSD\\heroku\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "Y:\\MicroSD\\heroku\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9582,
             "modifiedTime": 1555859748653,
             "changeTime": 1555859748653,
-            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c"
+            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "Y:\\MicroSD\\heroku\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "Y:\\MicroSD\\heroku\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9630,
             "modifiedTime": 1555859748681,
             "changeTime": 1555859748681,
-            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195"
+            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "Y:\\MicroSD\\heroku\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "Y:\\MicroSD\\heroku\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 373,
             "modifiedTime": 1555859748697,
             "changeTime": 1555859748697,
-            "contentHash": "c5991b5fc3773bab30e9c8ffad0a3621f05e0450"
+            "contentHash": "c5991b5fc3773bab30e9c8ffad0a3621f05e0450",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "Y:\\MicroSD\\heroku\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
         {
-            "state": "u",
             "sourcePath": "Y:\\MicroSD\\heroku\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1555859748535,
             "changeTime": 1555859748535,
-            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "Y:\\MicroSD\\heroku\\geolocation\\force-app\\main\\default\\objects\\Account",
         {
-            "state": "u",
             "sourcePath": "Y:\\MicroSD\\heroku\\geolocation\\force-app\\main\\default\\objects\\Account",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1555859748526,
             "changeTime": 1555859748526,
-            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "Y:\\MicroSD\\heroku\\geolocation\\force-app\\main\\default\\objects",
         {
-            "state": "u",
             "sourcePath": "Y:\\MicroSD\\heroku\\geolocation\\force-app\\main\\default\\objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1555859748519,
             "changeTime": 1555859748519,
-            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "Y:\\MicroSD\\heroku\\geolocation\\force-app\\main\\default\\layouts",
         {
-            "state": "u",
             "sourcePath": "Y:\\MicroSD\\heroku\\geolocation\\force-app\\main\\default\\layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1555859748681,
             "changeTime": 1555859748681,
-            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "Y:\\MicroSD\\heroku\\geolocation\\force-app\\main\\default\\permissionsets",
         {
-            "state": "u",
             "sourcePath": "Y:\\MicroSD\\heroku\\geolocation\\force-app\\main\\default\\permissionsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1555859748696,
             "changeTime": 1555859748696,
-            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
